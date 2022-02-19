@@ -1,5 +1,4 @@
 # Cookie Catch!
-*by Silicontent*
 
 ### Overview
 This is my first true Pygame project. It's incredibly simple: all you
