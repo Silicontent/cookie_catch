@@ -1,8 +1,6 @@
 # Cookie Catch!
 *by Silicontent*
 
----
-
 ### Overview
 This is my first true Pygame project. It's incredibly simple: all you
 have to do is catch the falling cookies in the cookie jar. Move using the arrow keys. You can
