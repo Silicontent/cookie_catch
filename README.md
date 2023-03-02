@@ -18,3 +18,5 @@ called Pixel Emulator, was created by Pixel Sagas at https://www.fontspace.com/p
 This project is open-source and free for others to go through. Please note that is isn't
 very well commented, and the formatting probably isn't the best.
 Feel free to edit this project to add more, if you'd like.
+
+EDIT 3/1/2023 - Repo is being archived due to lack of updates.
